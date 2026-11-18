@@ -1,0 +1,2 @@
+Ky eshte nje ushtrim praktik ne Git.
+Po mesojme te perdorim branch.
